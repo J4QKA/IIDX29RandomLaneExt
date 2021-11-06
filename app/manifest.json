@@ -1,0 +1,19 @@
+{
+    "name": "IIDX29RandomeLaneExt",
+    "version": "1.0.0",
+    "manifest_version": 2,
+    "description": "beatmania IIDX29 CastHourのランダムレーンチケット画面に機能を追加する拡張機能です",
+    "content_scripts": [{
+      "matches": ["https://p.eagate.573.jp/game/2dx/29/djdata/random_lane/index.html"],
+      "icons": {
+        "128": "icon.png"
+      },
+      "js": [
+        "jquery.min.js",
+        "script.js"
+      ],
+      "css": [
+          "random_lane_ext.css"
+      ]
+    }]
+  }
