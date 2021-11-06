@@ -24,8 +24,10 @@ appフォルダをローカルに保存し、Chromeの拡張機能として読�
 ## 機能説明
 ### 検索機能
 1~7の数値とW(1357),B(246)で指定できます。
+
 ![検索gif](https://user-images.githubusercontent.com/36569264/140611886-6cfc483b-842d-4dec-a364-25eb72e28bf0.gif)
 
 ### ソート機能
 「所持ランダムレーンチケット」列と「有効期限」列をクリックすると、降順・昇順に切り替わります。
+
 ![ソートgif](https://user-images.githubusercontent.com/36569264/140611917-5e69a750-335a-427b-9908-e2c38725bae5.gif)
